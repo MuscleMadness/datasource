@@ -1,81 +1,119 @@
 {
-    "days": [
-        {
-            "day": "Day 1",
-            "muscleGroups": ["chest"],
-            "exercises": [],
-            "exerciseIds": [
-                "Decline_Dumbbell_Bench_Press",
-                "Incline_Dumbbell_Bench_With_Palms_Facing_In",
-                "One_Arm_Dumbbell_Bench_Press",
-                "Decline_Dumbbell_Flyes"
-            ],
-            "sets": 3,
-            "reps": 10,
-            "rest": "60 seconds"
-        },
-        {
-            "day": "Day 2",
-            "muscleGroups": ["back"],
-            "exercises": [],
-            "exerciseIds": [
-                "Bent_Over_Two-Arm_Long_Bar_Row",
-                "Rack_Pulls",
-                "Bent_Over_One-Arm_Long_Bar_Row",
-                "Middle_Back_Shrug"
-            ],
-            "sets": 3,
-            "reps": 10,
-            "rest": "60 seconds"
-        },
-        {
-            "day": "Day 3",
-            "muscleGroups": ["legs"],
-            "exercises": [],
-            "exerciseIds": [
-                "Reverse_Band_Sumo_Deadlift",
-                "Power_Clean",
-                "Standing_Dumbbell_Calf_Raise",
-                "Overhead_Squat"
-            ],
-            "sets": 3,
-            "reps": 10,
-            "rest": "60 seconds"
-        },
-        {
-            "day": "Day 4",
-            "muscleGroups": ["arms", "upper body"],
-            "exercises": [],
-            "exerciseIds": [
-                "Dumbbell_Shoulder_Press",
-                "Dumbbell_Prone_Incline_Curl",
-                "Landmine_Linear_Jammer",
-                "JM_Press"
-            ],
-            "sets": 3,
-            "reps": 10,
-            "rest": "60 seconds"
-        },
-        {
-            "day": "Day 5",
-            "muscleGroups": ["core"],
-            "exercises": [],
-            "exerciseIds": [
-                "Barbell_Side_Bend",
-                "Press_Sit-Up",
-                "Barbell_Rollout_from_Bench",
-                "Seated_Barbell_Twist"
-            ],
-            "sets": 3,
-            "reps": 10,
-            "rest": "60 seconds"
-        }
-    ],
-    "goal": "Endurance",
-    "fitnessLevel": "advanced",
-    "daysPerWeek": 5,
-    "equipment": ["barbell", "dumbbell"],
-    "focusAreas": ["chest", "legs", "back", "arms", "upper body", "core"],
-    "duration": 60,
-    "preferences": ["compound", "isolation"]
+  "days": [
+    {
+      "day": "Day 1",
+      "muscleGroups": [
+        "core"
+      ],
+      "exercises": [],
+      "exerciseIds": [
+        "Cable_Crunch",
+        "Plank"
+      ],
+      "sets": 3,
+      "reps": 10,
+      "rest": "60 seconds"
+    },
+    {
+      "day": "Day 2",
+      "muscleGroups": [
+        "legs"
+      ],
+      "exercises": [],
+      "exerciseIds": [
+        "Barbell_Squat",
+        "Dumbbell_Lunges",
+        "Leg_Extensions",
+        "Smith_Machine_Calf_Raise"
+      ],
+      "sets": 3,
+      "reps": 10,
+      "rest": "60 seconds"
+    },
+    {
+      "day": "Day 3",
+      "muscleGroups": [
+        "arms"
+      ],
+      "exercises": [],
+      "exerciseIds": [
+        "EZ-Bar_Curl",
+        "Hammer_Curls",
+        "Concentration_Curls",
+        "Preacher_Curl",
+        "Dips_-_Triceps_Version",
+        "Triceps_Pushdown",
+        "Tricep_Dumbbell_Kickback",
+        "Triceps_Pushdown_-_Rope_Attachment"
+      ],
+      "sets": 3,
+      "reps": 10,
+      "rest": "60 seconds"
+    },
+    {
+      "day": "Day 4",
+      "muscleGroups": [
+        "upper body"
+      ],
+      "exercises": [],
+      "exerciseIds": [
+        "Front_Dumbbell_Raise",
+        "Upright_Barbell_Row",
+        "Seated_Dumbbell_Press",
+        "Side_Lateral_Raise"
+      ],
+      "sets": 3,
+      "reps": 10,
+      "rest": "60 seconds"
+    },
+    {
+      "day": "Day 5",
+      "muscleGroups": [
+        "back"
+      ],
+      "exercises": [],
+      "exerciseIds": [
+        "Bent_Over_Barbell_Row",
+        "Pullups",
+        "Wide-Grip_Lat_Pulldown"
+      ],
+      "sets": 3,
+      "reps": 10,
+      "rest": "60 seconds"
+    }
+  ],
+  "goal": "Endurance",
+  "fitnessLevel": "advanced",
+  "daysPerWeek": 5,
+  "equipment": [
+    "dumbbell",
+    "barbell",
+    ""
+  ],
+  "focusAreas": [
+    "abdominals",
+    "hamstrings",
+    "adductors",
+    "quadriceps",
+    "calves",
+    "glutes",
+    "abductors",
+    "biceps",
+    "triceps",
+    "forearms",
+    "shoulders",
+    "traps",
+    "neck",
+    "middle back",
+    "lower back",
+    "lats",
+    "chest",
+    ""
+  ],
+  "duration": 60,
+  "preferences": [
+    "compound",
+    "isolation",
+    ""
+  ]
 }
