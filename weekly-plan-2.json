@@ -1,3 +1,4 @@
+
 {
   "days": [
     {
@@ -7,8 +8,9 @@
       ],
       "exercises": [],
       "exerciseIds": [
-        "Cable_Crunch",
-        "Plank"
+        "Plank",
+        "Crunches",
+        "Jackknife_Sit-Up"
       ],
       "sets": 3,
       "reps": 10,
@@ -21,10 +23,11 @@
       ],
       "exercises": [],
       "exerciseIds": [
-        "Barbell_Squat",
-        "Dumbbell_Lunges",
-        "Leg_Extensions",
-        "Smith_Machine_Calf_Raise"
+        "Smith_Machine_Calf_Raise",
+        "Dumbbell_Squat",
+        "Hack_Squat",
+        "Leg_Press",
+        "Seated_Calf_Raise"
       ],
       "sets": 3,
       "reps": 10,
@@ -38,13 +41,15 @@
       "exercises": [],
       "exerciseIds": [
         "EZ-Bar_Curl",
-        "Hammer_Curls",
-        "Concentration_Curls",
-        "Preacher_Curl",
-        "Dips_-_Triceps_Version",
-        "Triceps_Pushdown",
-        "Tricep_Dumbbell_Kickback",
-        "Triceps_Pushdown_-_Rope_Attachment"
+        "Alternate_Incline_Dumbbell_Curl",
+        "Barbell_Curl",
+        "Bench_Dips",
+        "Close-Grip_EZ_Bar_Curl",
+        "Alternate_Hammer_Curl",
+        "Low_Cable_Triceps_Extension",
+        "Triceps_Pushdown_-_V-Bar_Attachment",
+        "Standing_Dumbbell_Triceps_Extension",
+        "Smith_Machine_Close-Grip_Bench_Press"
       ],
       "sets": 3,
       "reps": 10,
@@ -57,10 +62,12 @@
       ],
       "exercises": [],
       "exerciseIds": [
-        "Front_Dumbbell_Raise",
-        "Upright_Barbell_Row",
         "Seated_Dumbbell_Press",
-        "Side_Lateral_Raise"
+        "Barbell_Rear_Delt_Row",
+        "Barbell_Shrug",
+        "Cable_Rear_Delt_Fly",
+        "Leverage_Shoulder_Press",
+        "Front_Two-Dumbbell_Raise"
       ],
       "sets": 3,
       "reps": 10,
@@ -75,7 +82,10 @@
       "exerciseIds": [
         "Bent_Over_Barbell_Row",
         "Pullups",
-        "Wide-Grip_Lat_Pulldown"
+        "Close-Grip_Front_Lat_Pulldown",
+        "One-Arm_Dumbbell_Row",
+        "Seated_Cable_Rows",
+        "T-Bar_Row_with_Handle"
       ],
       "sets": 3,
       "reps": 10,
@@ -88,6 +98,8 @@
   "equipment": [
     "dumbbell",
     "barbell",
+    "cable",
+    "machine",
     ""
   ],
   "focusAreas": [
@@ -115,5 +127,10 @@
     "compound",
     "isolation",
     ""
-  ]
+  ],
+  "coach": {
+    "name": "Ramaraj",
+    "gymName": "MM Gym"
+  },
+  "createdDate": "2025-02-02"
 }
