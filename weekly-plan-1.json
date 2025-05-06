@@ -3,12 +3,14 @@
     {
       "day": "Day 1",
       "muscleGroups": [
-        "core"
+        "chest"
       ],
       "exercises": [],
       "exerciseIds": [
-        "Cable_Crunch",
-        "Plank"
+        "Barbell_Bench_Press_-_Medium_Grip",
+        "Butterfly",
+        "Smith_Machine_Incline_Bench_Press",
+        "Pushups"
       ],
       "sets": 3,
       "reps": 10,
@@ -17,14 +19,14 @@
     {
       "day": "Day 2",
       "muscleGroups": [
-        "legs"
+        "back"
       ],
       "exercises": [],
       "exerciseIds": [
-        "Barbell_Squat",
-        "Dumbbell_Lunges",
-        "Leg_Extensions",
-        "Smith_Machine_Calf_Raise"
+        "Bent_Over_Barbell_Row",
+        "Pullups",
+        "Seated_Cable_Rows",
+        "Wide-Grip_Lat_Pulldown"
       ],
       "sets": 3,
       "reps": 10,
@@ -33,18 +35,15 @@
     {
       "day": "Day 3",
       "muscleGroups": [
-        "arms"
+        "upper body"
       ],
       "exercises": [],
       "exerciseIds": [
-        "EZ-Bar_Curl",
-        "Hammer_Curls",
-        "Concentration_Curls",
-        "Preacher_Curl",
-        "Dips_-_Triceps_Version",
-        "Triceps_Pushdown",
-        "Tricep_Dumbbell_Kickback",
-        "Triceps_Pushdown_-_Rope_Attachment"
+        "Front_Two-Dumbbell_Raise",
+        "Reverse_Machine_Flyes",
+        "Seated_Dumbbell_Press",
+        "Side_Lateral_Raise",
+        "Upright_Barbell_Row"
       ],
       "sets": 3,
       "reps": 10,
@@ -53,14 +52,16 @@
     {
       "day": "Day 4",
       "muscleGroups": [
-        "upper body"
+        "arms"
       ],
       "exercises": [],
       "exerciseIds": [
-        "Front_Dumbbell_Raise",
-        "Upright_Barbell_Row",
-        "Seated_Dumbbell_Press",
-        "Side_Lateral_Raise"
+        "Barbell_Curl",
+        "Dips_-_Triceps_Version",
+        "Hammer_Curls",
+        "Incline_Dumbbell_Curl",
+        "Triceps_Pushdown",
+        "EZ-Bar_Skullcrusher"
       ],
       "sets": 3,
       "reps": 10,
@@ -69,13 +70,28 @@
     {
       "day": "Day 5",
       "muscleGroups": [
-        "back"
+        "legs"
       ],
       "exercises": [],
       "exerciseIds": [
-        "Bent_Over_Barbell_Row",
-        "Pullups",
-        "Wide-Grip_Lat_Pulldown"
+        "Barbell_Squat",
+        "Dumbbell_Lunges",
+        "Leg_Press",
+        "Lying_Leg_Curls",
+        "Smith_Machine_Calf_Raise"
+      ],
+      "sets": 3,
+      "reps": 10,
+      "rest": "60 seconds"
+    },
+    {
+      "day": "Day 6",
+      "muscleGroups": [
+        ""
+      ],
+      "exercises": [],
+      "exerciseIds": [
+        ""
       ],
       "sets": 3,
       "reps": 10,
@@ -88,26 +104,29 @@
   "equipment": [
     "dumbbell",
     "barbell",
+    "cable",
+    "machine",
+    "body",
+    "only",
     ""
   ],
   "focusAreas": [
-    "abdominals",
+    "chest",
+    "middle back",
+    "lower back",
+    "lats",
+    "shoulders",
+    "traps",
+    "neck",
+    "biceps",
+    "triceps",
+    "forearms",
     "hamstrings",
     "adductors",
     "quadriceps",
     "calves",
     "glutes",
     "abductors",
-    "biceps",
-    "triceps",
-    "forearms",
-    "shoulders",
-    "traps",
-    "neck",
-    "middle back",
-    "lower back",
-    "lats",
-    "chest",
     ""
   ],
   "duration": 60,
@@ -115,5 +134,12 @@
     "compound",
     "isolation",
     ""
-  ]
+  ],
+  "metaData": {
+    "coachName": "Ramaraj",
+    "gymName": "Muscle Madness Fitness Center",
+    "gymLogoUrl": "https://raw.githubusercontent.com/MuscleMadness/workout-planner/refs/heads/main/src/assets/img/tutorial/gym-logo-no-bg.svg",
+    "gymAddress": "Kamaraj Nagar, Muthukrishnaperi - 627 861"
+  },
+  "createdDate": "2025-05-06"
 }

@@ -1,16 +1,17 @@
-
 {
   "days": [
     {
       "day": "Day 1",
       "muscleGroups": [
-        "core"
+        "chest"
       ],
       "exercises": [],
       "exerciseIds": [
-        "Plank",
-        "Crunches",
-        "Jackknife_Sit-Up"
+        "Barbell_Incline_Bench_Press_-_Medium_Grip",
+        "Cable_Crossover",
+        "Dumbbell_Bench_Press",
+        "Smith_Machine_Decline_Press",
+        "Straight-Arm_Dumbbell_Pullover"
       ],
       "sets": 3,
       "reps": 10,
@@ -19,15 +20,15 @@
     {
       "day": "Day 2",
       "muscleGroups": [
-        "legs"
+        "back"
       ],
       "exercises": [],
       "exerciseIds": [
-        "Smith_Machine_Calf_Raise",
-        "Dumbbell_Squat",
-        "Hack_Squat",
-        "Leg_Press",
-        "Seated_Calf_Raise"
+        "Chin-Up",
+        "One-Arm_Dumbbell_Row",
+        "T-Bar_Row_with_Handle",
+        "Wide-Grip_Lat_Pulldown",
+        "Romanian_Deadlift"
       ],
       "sets": 3,
       "reps": 10,
@@ -36,20 +37,15 @@
     {
       "day": "Day 3",
       "muscleGroups": [
-        "arms"
+        "upper body"
       ],
       "exercises": [],
       "exerciseIds": [
-        "EZ-Bar_Curl",
-        "Alternate_Incline_Dumbbell_Curl",
-        "Barbell_Curl",
-        "Bench_Dips",
-        "Close-Grip_EZ_Bar_Curl",
-        "Alternate_Hammer_Curl",
-        "Low_Cable_Triceps_Extension",
-        "Triceps_Pushdown_-_V-Bar_Attachment",
-        "Standing_Dumbbell_Triceps_Extension",
-        "Smith_Machine_Close-Grip_Bench_Press"
+        "Dumbbell_Shrug",
+        "Front_Cable_Raise",
+        "Side_Lateral_Raise",
+        "Smith_Machine_Overhead_Shoulder_Press",
+        "Face_Pull"
       ],
       "sets": 3,
       "reps": 10,
@@ -58,16 +54,16 @@
     {
       "day": "Day 4",
       "muscleGroups": [
-        "upper body"
+        "arms"
       ],
       "exercises": [],
       "exerciseIds": [
-        "Seated_Dumbbell_Press",
-        "Barbell_Rear_Delt_Row",
-        "Barbell_Shrug",
-        "Cable_Rear_Delt_Fly",
-        "Leverage_Shoulder_Press",
-        "Front_Two-Dumbbell_Raise"
+        "Cable_Hammer_Curls_-_Rope_Attachment",
+        "Dumbbell_Bicep_Curl",
+        "Preacher_Curl",
+        "Push-Ups_-_Close_Triceps_Position",
+        "Standing_Dumbbell_Triceps_Extension",
+        "Triceps_Pushdown_-_Rope_Attachment"
       ],
       "sets": 3,
       "reps": 10,
@@ -76,16 +72,27 @@
     {
       "day": "Day 5",
       "muscleGroups": [
-        "back"
+        "legs"
       ],
       "exercises": [],
       "exerciseIds": [
-        "Bent_Over_Barbell_Row",
-        "Pullups",
-        "Close-Grip_Front_Lat_Pulldown",
-        "One-Arm_Dumbbell_Row",
-        "Seated_Cable_Rows",
-        "T-Bar_Row_with_Handle"
+        "Barbell_Walking_Lunge",
+        "Dumbbell_Squat",
+        "Leg_Extensions",
+        "Smith_Machine_Calf_Raise"
+      ],
+      "sets": 3,
+      "reps": 10,
+      "rest": "60 seconds"
+    },
+    {
+      "day": "Day 6",
+      "muscleGroups": [
+        ""
+      ],
+      "exercises": [],
+      "exerciseIds": [
+        ""
       ],
       "sets": 3,
       "reps": 10,
@@ -100,26 +107,27 @@
     "barbell",
     "cable",
     "machine",
+    "body",
+    "only",
     ""
   ],
   "focusAreas": [
-    "abdominals",
+    "chest",
+    "middle back",
+    "lower back",
+    "lats",
+    "shoulders",
+    "traps",
+    "neck",
+    "biceps",
+    "triceps",
+    "forearms",
     "hamstrings",
     "adductors",
     "quadriceps",
     "calves",
     "glutes",
     "abductors",
-    "biceps",
-    "triceps",
-    "forearms",
-    "shoulders",
-    "traps",
-    "neck",
-    "middle back",
-    "lower back",
-    "lats",
-    "chest",
     ""
   ],
   "duration": 60,
@@ -128,9 +136,11 @@
     "isolation",
     ""
   ],
-  "coach": {
-    "name": "Ramaraj",
-    "gymName": "MM Gym"
+  "metaData": {
+    "coachName": "Ramaraj",
+    "gymName": "Muscle Madness Fitness Center",
+    "gymLogoUrl": "https://raw.githubusercontent.com/MuscleMadness/workout-planner/refs/heads/main/src/assets/img/tutorial/gym-logo-no-bg.svg",
+    "gymAddress": "Kamaraj Nagar, Muthukrishnaperi - 627 861"
   },
-  "createdDate": "2025-02-02"
+  "createdDate": "2025-05-06"
 }
