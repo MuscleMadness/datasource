@@ -1,0 +1,136 @@
+{
+  "days": [
+    {
+      "day": "Day 1",
+      "muscleGroups": [
+        "back, core, legs, arms, upper body, chest"
+      ],
+      "exercises": [],
+      "exerciseIds": [
+        "Bodyweight_Squat",
+        "Plank",
+        "Pullups",
+        "Pushups"
+      ],
+      "sets": 3,
+      "reps": 10,
+      "rest": "60 seconds"
+    },
+    {
+      "day": "Day 2",
+      "muscleGroups": [
+        "back, core, legs, arms, upper body, chest"
+      ],
+      "exercises": [],
+      "exerciseIds": [
+        "Bodyweight_Walking_Lunge",
+        "Chin-Up",
+        "Sit-Up",
+        "Incline_Push-Up"
+      ],
+      "sets": 3,
+      "reps": 10,
+      "rest": "60 seconds"
+    },
+    {
+      "day": "Day 3",
+      "muscleGroups": [
+        "back, core, legs, arms, upper body, chest"
+      ],
+      "exercises": [],
+      "exerciseIds": [
+        "Bodyweight_Squat",
+        "Hanging_Leg_Raise",
+        "Pullups",
+        "Push-Ups_With_Feet_Elevated",
+        "Bench_Dips"
+      ],
+      "sets": 3,
+      "reps": 10,
+      "rest": "60 seconds"
+    },
+    {
+      "day": "Day 4",
+      "muscleGroups": [
+        "back, core, legs, arms, upper body, chest"
+      ],
+      "exercises": [],
+      "exerciseIds": [
+        "Smith_Machine_Bench_Press",
+        "Smith_Machine_Squat",
+        "Triceps_Pushdown",
+        "Wide-Grip_Lat_Pulldown",
+        "Barbell_Shoulder_Press"
+      ],
+      "sets": 3,
+      "reps": 10,
+      "rest": "60 seconds"
+    },
+    {
+      "day": "Day 5",
+      "muscleGroups": [
+        "back, core, legs, arms, upper body, chest"
+      ],
+      "exercises": [],
+      "exerciseIds": [
+        "Barbell_Curl",
+        "Dips_-_Triceps_Version",
+        "Pullups",
+        "Sit-Up",
+        "Smith_Machine_Incline_Bench_Press",
+        "T-Bar_Row_with_Handle"
+      ],
+      "sets": 3,
+      "reps": 10,
+      "rest": "60 seconds"
+    },
+    {
+      "day": "Day 6",
+      "muscleGroups": [
+        "back, core, legs, arms, upper body, chest"
+      ],
+      "exercises": [],
+      "exerciseIds": [
+        "Alternate_Hammer_Curl",
+        "Dumbbell_Lunges",
+        "Front_Dumbbell_Raise",
+        "Leg_Press",
+        "Side_Lateral_Raise",
+        "T-Bar_Row_with_Handle",
+        "Butterfly"
+      ],
+      "sets": 3,
+      "reps": 10,
+      "rest": "60 seconds"
+    }
+  ],
+  "goal": "Endurance",
+  "fitnessLevel": "advanced",
+  "daysPerWeek": 5,
+  "equipment": [
+    "dumbbell",
+    "barbell",
+    "cable",
+    "machine",
+    "body",
+    "only",
+    ""
+  ],
+  "focusAreas": [
+    "#N/A",
+    ""
+  ],
+  "duration": 60,
+  "preferences": [
+    "compound",
+    "isolation",
+    ""
+  ],
+  "metaData": {
+    "coachName": "Ramaraj",
+    "gymName": "Muscle Madness Fitness Center",
+    "gymLogoUrl": "https://raw.githubusercontent.com/MuscleMadness/workout-planner/refs/heads/main/src/assets/img/tutorial/gym-logo-no-bg.svg",
+    "gymAddress": "Kamaraj Nagar, Muthukrishnaperi - 627 861"
+  },
+  "createdDate": "2025-05-06"
+}
