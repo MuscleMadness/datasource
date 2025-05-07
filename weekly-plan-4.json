@@ -138,7 +138,10 @@
     "coachName": "Ramaraj",
     "gymName": "Muscle Madness Fitness Center",
     "gymLogoUrl": "https://raw.githubusercontent.com/MuscleMadness/workout-planner/refs/heads/main/src/assets/img/tutorial/gym-logo-no-bg.svg",
-    "gymAddress": "Kamaraj Nagar, Muthukrishnaperi - 627 861"
+    "gymAddress": "Kamaraj Nagar, Muthukrishnaperi - 627 861",
+    "planName": "Beginners | Routine 4",
+    "planDescription": "Deload week to promote recovery and adaptation. Lighter weights, strict form, and time-under-tension to maintain progress without overtraining.",
+    "planNotes": "Use ~60–70% of your usual working weight.\nDo not train to failure.\nFocus on mobility, joint health, and muscle recovery."
   },
-  "createdDate": "2025-05-06"
+  "createdDate": "2025-05-07"
 }

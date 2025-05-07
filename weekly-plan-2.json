@@ -140,7 +140,10 @@
     "coachName": "Ramaraj",
     "gymName": "Muscle Madness Fitness Center",
     "gymLogoUrl": "https://raw.githubusercontent.com/MuscleMadness/workout-planner/refs/heads/main/src/assets/img/tutorial/gym-logo-no-bg.svg",
-    "gymAddress": "Kamaraj Nagar, Muthukrishnaperi - 627 861"
+    "gymAddress": "Kamaraj Nagar, Muthukrishnaperi - 627 861",
+    "planName": "Beginners | Routine 2",
+    "planDescription": "Introduces small variations (grip changes, angle tweaks, new exercises) to stimulate growth and prevent adaptation. Slight increase in intensity and workload.",
+    "planNotes": "Begin progressive overload (increase weight slightly if form is solid).\nFocus on controlled negatives (2–3 sec eccentric).\nPrioritize recovery (nutrition, sleep)."
   },
-  "createdDate": "2025-05-06"
+  "createdDate": "2025-05-07"
 }

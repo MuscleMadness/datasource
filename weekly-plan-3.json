@@ -139,7 +139,10 @@
     "coachName": "Ramaraj",
     "gymName": "Muscle Madness Fitness Center",
     "gymLogoUrl": "https://raw.githubusercontent.com/MuscleMadness/workout-planner/refs/heads/main/src/assets/img/tutorial/gym-logo-no-bg.svg",
-    "gymAddress": "Kamaraj Nagar, Muthukrishnaperi - 627 861"
+    "gymAddress": "Kamaraj Nagar, Muthukrishnaperi - 627 861",
+    "planName": "Beginners | Routine 3",
+    "planDescription": "Peak intensity week using advanced techniques like slow tempo, drop sets, and peak contractions. Great for pushing muscles hard before a deload week.",
+    "planNotes": "Push your working sets close to failure but with strict form.\nIncorporate drop sets or pause reps on final sets.\nEnsure proper warm-up and post-workout stretching to reduce fatigue."
   },
-  "createdDate": "2025-05-06"
+  "createdDate": "2025-05-07"
 }

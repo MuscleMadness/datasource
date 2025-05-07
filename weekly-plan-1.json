@@ -139,7 +139,10 @@
     "coachName": "Ramaraj",
     "gymName": "Muscle Madness Fitness Center",
     "gymLogoUrl": "https://raw.githubusercontent.com/MuscleMadness/workout-planner/refs/heads/main/src/assets/img/tutorial/gym-logo-no-bg.svg",
-    "gymAddress": "Kamaraj Nagar, Muthukrishnaperi - 627 861"
+    "gymAddress": "Kamaraj Nagar, Muthukrishnaperi - 627 861",
+    "planName": "Beginners | Routine 1",
+    "planDescription": "Foundation week using standard compound and isolation movements with moderate volume and intensity. Focuses on establishing proper form, routine consistency, and full range of motion.",
+    "planNotes": "Keep rep range 8–12.\nFocus on mind-muscle connection.\nChoose weights that challenge you but don’t break form."
   },
-  "createdDate": "2025-05-06"
+  "createdDate": "2025-05-07"
 }
